@@ -1,0 +1,84 @@
+body {
+    background: url(../Assignment3Start/images/annie-spratt-unsplash.jpg) no-repeat;
+    background-size: cover;
+}
+
+* {
+    color: blueviolet;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-style: italic;
+    font-size: 55px;
+}
+
+h2 {
+
+}
+
+h3 {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 28px;
+}
+
+#highlight {
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+    padding-top: 30px;
+}
+
+#dois {
+    text-align: center;
+    padding-bottom: 35px;
+    font-style: italic;
+}
+
+#um {
+    text-align: center;
+    margin-top: -35px;
+    font-size: 35px;
+}
+
+#tres {
+    text-align: center;
+    font-weight: bold;
+    font-size: 35px;
+    padding-top: 10px;
+}
+
+#quatro {
+    text-align: justify;
+}
+
+#cinco{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#seis {
+    font-weight: bold;
+    padding-bottom: 20px;
+}
+
+#sete {
+    font-size: 20px;
+}
+
+#oito{
+    text-align: center;
+    padding-top: 30px;
+    font-size: 35px;
+}
+
+#link {
+    text-decoration: none;
+    font-size: 20px;
+    font-style: italic;
+    font-weight: bold;
+}
